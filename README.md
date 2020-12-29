@@ -10,7 +10,7 @@ TestApp has a small demo app to view FizzBuzzLib output
 
 FizzBuzzTests contains tests
 
-#Build
+# Build
 
 To build run build.bat from cmd or Windows Explorer, or run build.ps1 from a powershell console.
 
